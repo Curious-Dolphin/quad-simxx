@@ -1,5 +1,5 @@
 #include <iostream>
-#include <math>
+#include <cmath>
 #include <boost/numeric/odeint.hpp>
 
 
